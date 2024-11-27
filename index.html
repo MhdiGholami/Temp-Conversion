@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temp Conversion</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- paragraph -->
+        <p class="paragraph">Converter °C to °F</p>
+        <!-- row 1 -->
+        <div class="row1-parent">
+            <div class="row1-ls">
+                <label id="celcius" for="">Celcius</label>
+                <input id="celcius-input" type="number" placeholder="°c">
+            </div>
+            <div class="row1-rs">
+                <label id="fahrenheit" for="">Fahrenheit</label>
+                <input id="fahrenheit-input" type="number" placeholder="°f">
+            </div>
+        </div>
+        <!-- row 2 -->
+        <div class="row2-parent">
+            <div onclick="convertAction()">Convert</div>
+            <div onclick="resetAction()">Reset</div>
+            <div onclick="changeAction()">Change</div>
+        </div>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
