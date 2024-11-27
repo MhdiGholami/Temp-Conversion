@@ -7,7 +7,7 @@
 
 ![viewfinal](https://github.com/user-attachments/assets/8994bbe3-092a-4a67-a3ca-354a1817e7d3)
 
-- [Demo Project]([https://mhdigholami.github.io/Weather-App/](https://mhdigholami.github.io/Temp-Conversion/)) ✅
+- [Demo Project](https://mhdigholami.github.io/Temp-Conversion/) ✅
 
 - Developed by Mahdi Gholami
 
